@@ -75,6 +75,31 @@ https://github.com/shiny-a2/a2-watch-marketplace-showcase
 
 Architecture showcase for seller intake, verification states, custody/delivery flows, operator review, and marketplace workflow boundaries. Production launch is not represented.
 
+## Technical Notes
+
+### WooCommerce Performance
+
+- [Request classification before cache](https://github.com/shiny-a2/a2-woocommerce-performance-lab/blob/main/docs/engineering-notes/request-classification-before-cache.md)
+- [Action Scheduler backlog as operational risk](https://github.com/shiny-a2/a2-woocommerce-performance-lab/blob/main/docs/engineering-notes/action-scheduler-backlog-as-operational-risk.md)
+- [Transient growth and autoload pressure](https://github.com/shiny-a2/a2-woocommerce-performance-lab/blob/main/docs/engineering-notes/transient-growth-and-autoload-pressure.md)
+
+### Operational CRM Systems
+
+- [Operator inbox state boundaries](https://github.com/shiny-a2/a2-crm-operations-system/blob/main/docs/engineering-notes/operator-inbox-state-boundaries.md)
+- [Provider abstraction for SMS and VoIP](https://github.com/shiny-a2/a2-crm-operations-system/blob/main/docs/engineering-notes/provider-abstraction-for-sms-and-voip.md)
+
+### Product Recommendation Systems
+
+- [Recommendation without heavy real-time queries](https://github.com/shiny-a2/a2-style-dna-similar-products/blob/main/docs/engineering-notes/recommendation-without-heavy-real-time-queries.md)
+
+### Admin Operations
+
+- [Safe admin actions and rollback thinking](https://github.com/shiny-a2/a2-woocommerce-admin-ops-toolkit/blob/main/docs/engineering-notes/safe-admin-actions-and-rollback-thinking.md)
+
+### Marketplace Architecture
+
+- [Marketplace state machine before payments](https://github.com/shiny-a2/a2-watch-marketplace-showcase/blob/main/docs/engineering-notes/marketplace-state-machine-before-payments.md)
+
 ## Architecture Specialization Areas
 
 - WooCommerce request lifecycle and cache safety
@@ -114,4 +139,3 @@ I build internal systems as operational tools, not as generic dashboards. The re
 - Treat cache invalidation, checkout state, and customer data as first-class constraints.
 - Keep public code curated and safe; never publish raw production dumps.
 - Write documentation that explains tradeoffs, not just features.
-
