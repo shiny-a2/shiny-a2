@@ -10,6 +10,14 @@ Portfolio: https://amiraliyaghouti.com
 LinkedIn: https://www.linkedin.com/in/amirali-yaghouti  
 Email: amiraliyaghouti@gmail.com
 
+## Start Here
+
+- WooCommerce performance, cache boundaries, REST pressure, and scheduler risk: [a2-woocommerce-performance-lab](https://github.com/shiny-a2/a2-woocommerce-performance-lab)
+- CRM, operator workflows, provider boundaries, and reporting snapshots: [a2-crm-operations-system](https://github.com/shiny-a2/a2-crm-operations-system)
+- Product recommendations, cache invalidation, and render protection: [a2-style-dna-similar-products](https://github.com/shiny-a2/a2-style-dna-similar-products)
+- Admin operations, snapshots, audit records, and rollback thinking: [a2-woocommerce-admin-ops-toolkit](https://github.com/shiny-a2/a2-woocommerce-admin-ops-toolkit)
+- Marketplace state design, custody boundaries, and review workflows: [a2-watch-marketplace-showcase](https://github.com/shiny-a2/a2-watch-marketplace-showcase)
+
 ## Engineering Identity
 
 I am not positioning myself as a theme customizer or general WordPress freelancer. The work I want to be reviewed for is production engineering around live commerce platforms:
