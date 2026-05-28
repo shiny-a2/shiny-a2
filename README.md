@@ -30,6 +30,16 @@ I am not positioning myself as a theme customizer or general WordPress freelance
 | Database boot cost | transient and autoload growth | transient guards, option audits, controlled cleanup |
 | Admin operations | exceptional order and stock workflows | scoped admin tools, capability checks, audit notes, rollback thinking |
 
+## Infrastructure Thinking
+
+- Classify request type before applying cache, API controls, or shortcuts.
+- Treat cache invalidation as part of the design, not a cleanup task.
+- Watch queue backlog and oldest pending age as operational risk signals.
+- Control REST/API pressure separately from page-render performance.
+- Design admin operations around permission gates, snapshots, audit records, and rollback paths.
+- Keep provider integrations fail-visible and replaceable.
+- Model marketplace workflows as state machines before payment or public listing logic.
+
 ## Selected Production Impact
 
 These metrics are used only where they are represented in the public website/resume materials.
