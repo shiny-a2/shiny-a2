@@ -10,6 +10,17 @@ Portfolio: https://amiraliyaghouti.com
 LinkedIn: https://www.linkedin.com/in/amirali-yaghouti  
 Email: amiraliyaghouti@gmail.com
 
+## Public Reviewer Path
+
+For a fast hiring review, use the website for the broader career story and this GitHub profile for technical proof:
+
+- Website overview: https://amiraliyaghouti.com
+- Project index: https://amiraliyaghouti.com/projects.html
+- Case-study library: https://amiraliyaghouti.com/case-studies.html
+- GitHub samples: start with the five repositories below.
+
+The public repositories are curated showcases. They include architecture notes, public-safe PHP samples, and sample-only syntax checks. They do not expose private implementation code or production data.
+
 ## Start Here
 
 - WooCommerce performance, cache boundaries, REST pressure, and scheduler risk: [a2-woocommerce-performance-lab](https://github.com/shiny-a2/a2-woocommerce-performance-lab)
