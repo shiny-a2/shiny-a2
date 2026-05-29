@@ -21,6 +21,13 @@ For a fast hiring review, use the website for the broader career story and this 
 
 The public repositories are curated showcases. They include architecture notes, public-safe PHP samples, and sample-only syntax checks. They do not expose private implementation code or production data.
 
+## Technical Writing
+
+- [Public technical writing index](docs/technical-writing/index.md)
+- [WooCommerce request classification before cache](docs/technical-writing/articles/woocommerce-request-classification-before-cache.md)
+- [Action Scheduler backlog as operational risk](docs/technical-writing/articles/action-scheduler-backlog-operational-risk.md)
+- [Public-safe engineering proof](docs/technical-writing/articles/public-safe-engineering-proof.md)
+
 ## Start Here
 
 - WooCommerce performance, cache boundaries, REST pressure, and scheduler risk: [a2-woocommerce-performance-lab](https://github.com/shiny-a2/a2-woocommerce-performance-lab)
