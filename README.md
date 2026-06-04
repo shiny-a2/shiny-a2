@@ -1,10 +1,10 @@
 # Amirali Yaghouti
 
-Senior WordPress / WooCommerce Performance & Infrastructure Engineer
+Full-Stack Commerce & Platform Engineer
 
-I work on production commerce systems where WordPress is not only a CMS, but the operating surface for catalog performance, checkout reliability, background jobs, internal tools, reporting, CRM workflows, and technical SEO.
+I work on production commerce systems where the important work spans backend PHP, WordPress/WooCommerce, frontend UX, APIs, data workflows, CRM operations, automation, reporting, and technical SEO.
 
-My strongest work is in WooCommerce performance engineering, MU-plugin architecture, database pressure reduction, controlled REST/API design, Action Scheduler tuning, admin operations tooling, and CRM/customer operation systems.
+My strongest work is turning business operations into reliable web systems: fast storefronts, controlled internal tools, snapshot APIs, CRM workflows, reporting pipelines, automation boundaries, and public-safe architecture documentation.
 
 Portfolio: https://amiraliyaghouti.com  
 LinkedIn: https://www.linkedin.com/in/amirali-yaghouti  
@@ -17,7 +17,7 @@ For a fast hiring review, use the website for the broader career story and this 
 - Website overview: https://amiraliyaghouti.com
 - Project index: https://amiraliyaghouti.com/projects.html
 - Case-study library: https://amiraliyaghouti.com/case-studies.html
-- GitHub samples: start with the five repositories below.
+- GitHub samples: start with the six repositories below.
 
 The public repositories are curated showcases. They include architecture notes, public-safe PHP samples, and sample-only syntax checks. They do not expose private implementation code or production data.
 
@@ -30,19 +30,21 @@ The public repositories are curated showcases. They include architecture notes, 
 
 ## Start Here
 
+- Commerce platform modernization, architecture, data modeling, and migration planning: [commerce-platform-modernization-showcase](https://github.com/shiny-a2/commerce-platform-modernization-showcase)
 - WooCommerce performance, cache boundaries, REST pressure, and scheduler risk: [a2-woocommerce-performance-lab](https://github.com/shiny-a2/a2-woocommerce-performance-lab)
 - CRM, operator workflows, provider boundaries, and reporting snapshots: [a2-crm-operations-system](https://github.com/shiny-a2/a2-crm-operations-system)
-- Product recommendations, cache invalidation, and render protection: [a2-style-dna-similar-products](https://github.com/shiny-a2/a2-style-dna-similar-products)
-- Admin operations, snapshots, audit records, and rollback thinking: [a2-woocommerce-admin-ops-toolkit](https://github.com/shiny-a2/a2-woocommerce-admin-ops-toolkit)
+- Automation workflows, n8n-style routing, reporting pipelines, and approval gates: [commerce-automation-workflows-showcase](https://github.com/shiny-a2/commerce-automation-workflows-showcase)
+- Retail operations PWA architecture and assisted ordering workflows: [jeweltimeco-showcase](https://github.com/shiny-a2/jeweltimeco-showcase)
 - Marketplace state design, custody boundaries, and review workflows: [a2-watch-marketplace-showcase](https://github.com/shiny-a2/a2-watch-marketplace-showcase)
 
 ## Engineering Identity
 
-I am not positioning myself as a theme customizer or general WordPress freelancer. The work I want to be reviewed for is production engineering around live commerce platforms:
+I am not positioning myself as a theme customizer or generic freelancer. The work I want to be reviewed for is full-stack production engineering around commerce and operations platforms:
 
 - diagnosing slow routes, queue pressure, transient growth, and cache misses;
 - designing small, controlled plugin/MU-plugin modules instead of risky broad rewrites;
 - building admin and operator tools that reduce manual work without weakening data integrity;
+- connecting APIs, spreadsheets, CRM events, messaging providers, and reporting workflows safely;
 - keeping public code samples curated, anonymized, and safe to inspect.
 
 ## Infrastructure & Performance Focus
@@ -81,6 +83,12 @@ These metrics are used only where they are represented in the public website/res
 
 ## Featured Engineering Case Studies
 
+### Commerce Platform Modernization
+
+https://github.com/shiny-a2/commerce-platform-modernization-showcase
+
+Architecture planning, data modeling, migration strategy, RBAC boundaries, SEO control-plane thinking, and modular commerce platform design.
+
 ### WooCommerce Performance Lab
 
 https://github.com/shiny-a2/a2-woocommerce-performance-lab
@@ -92,6 +100,12 @@ Microcache boundaries, REST route control, Action Scheduler cleanup, transient p
 https://github.com/shiny-a2/a2-crm-operations-system
 
 WordPress-based CRM architecture for operator inboxes, customer follow-up, customer hubs, SMS/VoIP integration boundaries, reporting, and operational auditability.
+
+### Commerce Automation Workflows
+
+https://github.com/shiny-a2/commerce-automation-workflows-showcase
+
+n8n-style workflow architecture for CRM routing, reporting pipelines, messaging review gates, Google Sheets handoffs, and approval-safe operational automation.
 
 ### Style DNA Similar Products
 
@@ -123,6 +137,10 @@ Architecture showcase for seller intake, verification states, custody/delivery f
 
 - [Operator inbox state boundaries](https://github.com/shiny-a2/a2-crm-operations-system/blob/main/docs/engineering-notes/operator-inbox-state-boundaries.md)
 - [Provider abstraction for SMS and VoIP](https://github.com/shiny-a2/a2-crm-operations-system/blob/main/docs/engineering-notes/provider-abstraction-for-sms-and-voip.md)
+
+### Automation Workflows
+
+- [Commerce automation architecture notes](https://github.com/shiny-a2/commerce-automation-workflows-showcase/blob/main/docs/architecture-notes.md)
 
 ### Product Recommendation Systems
 
