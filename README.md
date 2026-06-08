@@ -17,6 +17,7 @@ For a fast hiring review, use the website for the broader career story and this 
 - Website overview: https://amiraliyaghouti.com
 - Project index: https://amiraliyaghouti.com/projects.html
 - Case-study library: https://amiraliyaghouti.com/case-studies.html
+- Full public showcase index: [docs/public-showcase-index.md](docs/public-showcase-index.md)
 - GitHub samples: start with the six repositories below.
 
 The public repositories are curated showcases. They include architecture notes, public-safe PHP samples, and sample-only syntax checks. They do not expose private implementation code or production data.
