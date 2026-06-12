@@ -18,6 +18,7 @@ For a fast hiring review, use the website for the broader career story and this 
 - Project index: https://amiraliyaghouti.com/projects.html
 - Case-study library: https://amiraliyaghouti.com/case-studies.html
 - Full public showcase index: [docs/public-showcase-index.md](docs/public-showcase-index.md)
+- Recommended profile pins: [docs/github-profile-pinning.md](docs/github-profile-pinning.md)
 - GitHub samples: start with the six flagship repositories below, then use the active showcase library for focused plugin/API/UI samples.
 
 The public repositories are curated showcases. They include architecture notes, public-safe samples, and sample-only syntax checks. They do not expose private implementation code or production data.
