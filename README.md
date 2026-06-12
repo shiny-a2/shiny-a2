@@ -2,6 +2,10 @@
 
 Full-Stack Commerce & Platform Engineer
 
+**Public proof updated: 2026-06-13**
+
+Start with the [flagship repositories](#start-here), then use the [active public showcase library](#active-public-showcase-library) and [pinning guide](docs/github-profile-pinning.md) for the full employer-review path.
+
 I work on production commerce systems where the important work spans backend PHP, WordPress/WooCommerce, frontend UX, APIs, data workflows, CRM operations, automation, reporting, and technical SEO.
 
 My strongest work is turning business operations into reliable web systems: fast storefronts, controlled internal tools, snapshot APIs, CRM workflows, reporting pipelines, automation boundaries, and public-safe architecture documentation.
