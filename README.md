@@ -18,9 +18,9 @@ For a fast hiring review, use the website for the broader career story and this 
 - Project index: https://amiraliyaghouti.com/projects.html
 - Case-study library: https://amiraliyaghouti.com/case-studies.html
 - Full public showcase index: [docs/public-showcase-index.md](docs/public-showcase-index.md)
-- GitHub samples: start with the six repositories below.
+- GitHub samples: start with the six flagship repositories below, then use the active showcase library for focused plugin/API/UI samples.
 
-The public repositories are curated showcases. They include architecture notes, public-safe PHP samples, and sample-only syntax checks. They do not expose private implementation code or production data.
+The public repositories are curated showcases. They include architecture notes, public-safe samples, and sample-only syntax checks. They do not expose private implementation code or production data.
 
 ## Technical Writing
 
@@ -37,6 +37,20 @@ The public repositories are curated showcases. They include architecture notes, 
 - Automation workflows, n8n-style routing, reporting pipelines, and approval gates: [commerce-automation-workflows-showcase](https://github.com/shiny-a2/commerce-automation-workflows-showcase)
 - Retail operations PWA architecture and assisted ordering workflows: [jeweltimeco-showcase](https://github.com/shiny-a2/jeweltimeco-showcase)
 - Marketplace state design, custody boundaries, and review workflows: [a2-watch-marketplace-showcase](https://github.com/shiny-a2/a2-watch-marketplace-showcase)
+
+## Active Public Showcase Library
+
+These repositories are focused public-safe showcases for active private work. Each one includes a privacy boundary, update notes, architecture notes, and sanitized samples.
+
+- AI-assisted SEO workflow: [a2-seo-plugin-showcase](https://github.com/shiny-a2/a2-seo-plugin-showcase)
+- Catalog/search API boundary: [a2-catalog-api-showcase](https://github.com/shiny-a2/a2-catalog-api-showcase)
+- Bulk discount operations: [a2-discount-showcase](https://github.com/shiny-a2/a2-discount-showcase)
+- Spreadsheet price/stock sync: [a2-excel-price-sync-showcase](https://github.com/shiny-a2/a2-excel-price-sync-showcase)
+- Snapshot product API: [a2-searchwiz-product-api-showcase](https://github.com/shiny-a2/a2-searchwiz-product-api-showcase)
+- Messaging/customer hub: [a2-bale-customer-hub-showcase](https://github.com/shiny-a2/a2-bale-customer-hub-showcase)
+- Storefront carousel component: [a2-lux-showcase](https://github.com/shiny-a2/a2-lux-showcase)
+- Checkout/cart UI compatibility: [a2-woo-flow-ui-showcase](https://github.com/shiny-a2/a2-woo-flow-ui-showcase)
+- MU-plugin operations umbrella: [mu-plugins-showcase](https://github.com/shiny-a2/mu-plugins-showcase)
 
 ## Engineering Identity
 
