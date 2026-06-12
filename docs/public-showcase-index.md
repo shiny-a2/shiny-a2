@@ -19,15 +19,15 @@ Start with these repositories for a fast employer review:
 
 | Private source | Public showcase | Status |
 |---|---|---|
-| `a2-seo-plugin` | [a2-seo-plugin-showcase](https://github.com/shiny-a2/a2-seo-plugin-showcase) | Phase 1 skeleton |
-| `a2-catalog-api` | [a2-catalog-api-showcase](https://github.com/shiny-a2/a2-catalog-api-showcase) | Phase 1 skeleton |
-| `a2-discount` | [a2-discount-showcase](https://github.com/shiny-a2/a2-discount-showcase) | Phase 1 skeleton |
-| `a2-excel-price-sync` | [a2-excel-price-sync-showcase](https://github.com/shiny-a2/a2-excel-price-sync-showcase) | Phase 1 skeleton |
-| `a2-searchwiz-product-api` | [a2-searchwiz-product-api-showcase](https://github.com/shiny-a2/a2-searchwiz-product-api-showcase) | Phase 1 skeleton |
-| `a2-bale-customer-hub` | [a2-bale-customer-hub-showcase](https://github.com/shiny-a2/a2-bale-customer-hub-showcase) | Phase 1 skeleton |
-| `a2-lux` | [a2-lux-showcase](https://github.com/shiny-a2/a2-lux-showcase) | Phase 1 skeleton |
-| `a2-woo-flow-ui` | [a2-woo-flow-ui-showcase](https://github.com/shiny-a2/a2-woo-flow-ui-showcase) | Phase 1 skeleton |
-| `mu-plugins` | [mu-plugins-showcase](https://github.com/shiny-a2/mu-plugins-showcase) | Phase 1 umbrella skeleton |
+| `a2-seo-plugin` | [a2-seo-plugin-showcase](https://github.com/shiny-a2/a2-seo-plugin-showcase) | Phase 2/3: architecture, privacy, update notes, sanitized samples |
+| `a2-catalog-api` | [a2-catalog-api-showcase](https://github.com/shiny-a2/a2-catalog-api-showcase) | Phase 2/3: architecture, privacy, update notes, sanitized samples |
+| `a2-discount` | [a2-discount-showcase](https://github.com/shiny-a2/a2-discount-showcase) | Phase 2/3: architecture, privacy, update notes, sanitized samples |
+| `a2-excel-price-sync` | [a2-excel-price-sync-showcase](https://github.com/shiny-a2/a2-excel-price-sync-showcase) | Phase 2/3: architecture, privacy, update notes, sanitized samples |
+| `a2-searchwiz-product-api` | [a2-searchwiz-product-api-showcase](https://github.com/shiny-a2/a2-searchwiz-product-api-showcase) | Phase 2/3: architecture, privacy, update notes, sanitized samples |
+| `a2-bale-customer-hub` | [a2-bale-customer-hub-showcase](https://github.com/shiny-a2/a2-bale-customer-hub-showcase) | Phase 2/3: architecture, privacy, update notes, sanitized samples |
+| `a2-lux` | [a2-lux-showcase](https://github.com/shiny-a2/a2-lux-showcase) | Phase 2/3: architecture, privacy, update notes, sanitized samples |
+| `a2-woo-flow-ui` | [a2-woo-flow-ui-showcase](https://github.com/shiny-a2/a2-woo-flow-ui-showcase) | Phase 2/3: architecture, privacy, update notes, sanitized samples |
+| `mu-plugins` | [mu-plugins-showcase](https://github.com/shiny-a2/mu-plugins-showcase) | Phase 2/3 umbrella: architecture, privacy, update notes, sanitized samples |
 
 ## Existing Showcase Map
 
@@ -40,8 +40,9 @@ Start with these repositories for a fast employer review:
 | `a2-alphacore` | [a2-alphacore-showcase](https://github.com/shiny-a2/a2-alphacore-showcase) | Current showcase |
 | `mu-a2-product-search-overlay` | [a2-product-search-overlay-showcase](https://github.com/shiny-a2/a2-product-search-overlay-showcase) | Current showcase |
 
-## Next Content Phases
+## Current Maintenance
 
-- Phase 2: expand each showcase with business context, architecture, key decisions, risks, testing notes, and credible outcomes.
-- Phase 3: add short public-safe samples inside each showcase under `samples/`.
+- Keep private source and public showcase updates paired when active projects change.
+- Keep each showcase privacy boundary, architecture notes, update notes, and sample directory current.
 - GitHub profile pins remain UI-only; pinned repositories should stay limited to the strongest six public showcases.
+- Portfolio links should route readers to the flagship path first, then this full showcase index for deeper review.
