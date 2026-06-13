@@ -2,7 +2,7 @@
 
 Full-Stack Commerce & Platform Engineer
 
-**Public proof updated: 2026-06-13**
+**Public proof updated: 2026-06-14**
 
 Start with the [flagship repositories](#start-here), then use the [active public showcase library](#active-public-showcase-library) and [pinning guide](docs/github-profile-pinning.md) for the full employer-review path.
 
@@ -26,6 +26,8 @@ For a fast hiring review, use the website for the broader career story and this 
 - GitHub samples: start with the six flagship repositories below, then use the active showcase library for focused plugin/API/UI samples.
 
 The public repositories are curated showcases. They include architecture notes, public-safe samples, and sample-only syntax checks. They do not expose private implementation code or production data.
+
+Latest public update: `mu-plugins-showcase` now documents the private MU-plugin expansion across asset cleanup, SEO/schema safety, microcache operations, checkout UX safeguards, and updated portfolio case studies.
 
 ## Technical Writing
 
@@ -55,7 +57,7 @@ These repositories are focused public-safe showcases for active private work. Ea
 - Messaging/customer hub: [a2-bale-customer-hub-showcase](https://github.com/shiny-a2/a2-bale-customer-hub-showcase)
 - Storefront carousel component: [a2-lux-showcase](https://github.com/shiny-a2/a2-lux-showcase)
 - Checkout/cart UI compatibility: [a2-woo-flow-ui-showcase](https://github.com/shiny-a2/a2-woo-flow-ui-showcase)
-- MU-plugin operations umbrella: [mu-plugins-showcase](https://github.com/shiny-a2/mu-plugins-showcase)
+- MU-plugin operations umbrella: [mu-plugins-showcase](https://github.com/shiny-a2/mu-plugins-showcase) — updated for asset cleanup, SEO/schema safety, microcache operations, and checkout UX safeguards.
 
 ## Engineering Identity
 
