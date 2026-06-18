@@ -27,7 +27,7 @@ Start with these repositories for a fast employer review:
 | `a2-bale-customer-hub` | [a2-bale-customer-hub-showcase](https://github.com/shiny-a2/a2-bale-customer-hub-showcase) | Phase 2/3: architecture, privacy, update notes, sanitized samples |
 | `a2-lux` | [a2-lux-showcase](https://github.com/shiny-a2/a2-lux-showcase) | Phase 2/3: architecture, privacy, update notes, sanitized samples |
 | `a2-woo-flow-ui` | [a2-woo-flow-ui-showcase](https://github.com/shiny-a2/a2-woo-flow-ui-showcase) | Phase 2/3: architecture, privacy, update notes, sanitized samples |
-| `mu-plugins` | [mu-plugins-showcase](https://github.com/shiny-a2/mu-plugins-showcase) | Phase 2/3 umbrella: architecture, privacy, update notes, sanitized samples; updated for asset cleanup, SEO/schema safety, microcache operations, and checkout UX safeguards |
+| `mu-plugins` | [mu-plugins-showcase](https://github.com/shiny-a2/mu-plugins-showcase) | Phase 2/3 umbrella: architecture, privacy, update notes, sanitized samples; updated for asset cleanup, SEO/schema safety, archive pagination stability, microcache operations, and checkout/payment safeguards |
 
 ## Existing Showcase Map
 
