@@ -1,8 +1,8 @@
 # Amirali Yaghouti
 
-Full-Stack Commerce & Platform Engineer
+Senior Software Engineer — Commerce Platforms, AI Systems & Automation Architecture
 
-**Public proof updated: 2026-06-18**
+**Public proof updated: 2026-07-23**
 
 Start with the [flagship repositories](#start-here), then use the [active public showcase library](#active-public-showcase-library) and [pinning guide](docs/github-profile-pinning.md) for the full employer-review path.
 
@@ -23,11 +23,11 @@ For a fast hiring review, use the website for the broader career story and this 
 - Case-study library: https://amiraliyaghouti.com/case-studies.html
 - Full public showcase index: [docs/public-showcase-index.md](docs/public-showcase-index.md)
 - Recommended profile pins: [docs/github-profile-pinning.md](docs/github-profile-pinning.md)
-- GitHub samples: start with the six flagship repositories below, then use the active showcase library for focused plugin/API/UI samples.
+- GitHub samples: start with the flagship repositories below, then use the active showcase library for focused plugin/API/UI samples.
 
 The public repositories are curated showcases. They include architecture notes, public-safe samples, and sample-only syntax checks. They do not expose private implementation code or production data.
 
-Latest public update: `mu-plugins-showcase` now documents the private MU-plugin expansion across archive pagination stability, externalized infinite-scroll assets, SEO/schema fallback safety, admin payment boundaries, and updated portfolio case studies.
+Latest public update: the July 2026 releases publish the AI and automation line of work — `woocommerce-ai-sales-assistant` (AI sales consultant for WooCommerce over Telegram and website chat, grounded in the live catalog via OpenAI function-calling, with vision and voice), `ai-token-platform` (Telegram AI assistant platform with an internal credit economy), `telegram-crm-campaign-manager` (rate-limited scheduled customer messaging with a live dashboard), and `woocommerce-telegram-order-bot` (live, self-updating order cards with Jalali-dated reports), alongside an updated `a2-crm-operations-system`.
 
 ## Technical Writing
 
@@ -38,7 +38,10 @@ Latest public update: `mu-plugins-showcase` now documents the private MU-plugin 
 
 ## Start Here
 
-- Commerce platform modernization, architecture, data modeling, and migration planning: [commerce-platform-modernization-showcase](https://github.com/shiny-a2/commerce-platform-modernization-showcase)
+- AI sales consultant for WooCommerce — Telegram + website chat, grounded in the live catalog via OpenAI function-calling (vision + voice): [woocommerce-ai-sales-assistant](https://github.com/shiny-a2/woocommerce-ai-sales-assistant)
+- Telegram AI assistant platform with an internal credit economy — aiogram bot + Telegram Mini App + FastAPI admin dashboard: [ai-token-platform](https://github.com/shiny-a2/ai-token-platform)
+- Rate-limited scheduled customer messaging over Telegram, with a live dashboard: [telegram-crm-campaign-manager](https://github.com/shiny-a2/telegram-crm-campaign-manager)
+- Modular-monolith commerce platform engineering, selected samples, and ADRs: [a2-commerce-platform-showcase](https://github.com/shiny-a2/a2-commerce-platform-showcase) — the earlier architecture planning, data modeling, and migration strategy work lives in [commerce-platform-modernization-showcase](https://github.com/shiny-a2/commerce-platform-modernization-showcase)
 - WooCommerce performance, cache boundaries, REST pressure, and scheduler risk: [a2-woocommerce-performance-lab](https://github.com/shiny-a2/a2-woocommerce-performance-lab)
 - CRM, operator workflows, provider boundaries, and reporting snapshots: [a2-crm-operations-system](https://github.com/shiny-a2/a2-crm-operations-system)
 - Automation workflows, n8n-style routing, reporting pipelines, and approval gates: [commerce-automation-workflows-showcase](https://github.com/shiny-a2/commerce-automation-workflows-showcase)
@@ -58,6 +61,10 @@ These repositories are focused public-safe showcases for active private work. Ea
 - Storefront carousel component: [a2-lux-showcase](https://github.com/shiny-a2/a2-lux-showcase)
 - Checkout/cart UI compatibility: [a2-woo-flow-ui-showcase](https://github.com/shiny-a2/a2-woo-flow-ui-showcase)
 - MU-plugin operations umbrella: [mu-plugins-showcase](https://github.com/shiny-a2/mu-plugins-showcase) — updated for asset cleanup, SEO/schema safety, archive pagination stability, microcache operations, and checkout/payment safeguards.
+- Telegram order operations: [woocommerce-telegram-order-bot](https://github.com/shiny-a2/woocommerce-telegram-order-bot) — live, self-updating order cards with featured images, Jalali-dated captions, in-place edits on status/price changes, and per-gateway sales reports.
+- Local lead generation: [a2-local-lead-engine-public](https://github.com/shiny-a2/a2-local-lead-engine-public) — safety-first lead-gen and outreach engine (OSM, free/keyless, human-reviewed).
+- Staging security orchestration: [a2-staging-security-showcase](https://github.com/shiny-a2/a2-staging-security-showcase) — sanitized security engineering showcase for fail-closed staging recovery orchestration.
+- Customer identity architecture: [a2-customer-identity-core-showcase](https://github.com/shiny-a2/a2-customer-identity-core-showcase) — public showcase of a security-first customer identity architecture.
 
 ## Engineering Identity
 
@@ -105,11 +112,11 @@ These metrics are used only where they are represented in the public website/res
 
 ## Featured Engineering Case Studies
 
-### Commerce Platform Modernization
+### Commerce Platform Engineering
 
-https://github.com/shiny-a2/commerce-platform-modernization-showcase
+https://github.com/shiny-a2/a2-commerce-platform-showcase
 
-Architecture planning, data modeling, migration strategy, RBAC boundaries, SEO control-plane thinking, and modular commerce platform design.
+Engineering case study for a modular-monolith commerce platform with selected samples and ADRs. The earlier modernization phase — architecture planning, data modeling, migration strategy, RBAC boundaries, and SEO control-plane thinking — is documented in [commerce-platform-modernization-showcase](https://github.com/shiny-a2/commerce-platform-modernization-showcase).
 
 ### WooCommerce Performance Lab
 
