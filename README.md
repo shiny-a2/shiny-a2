@@ -65,6 +65,9 @@ These repositories are focused public-safe showcases for active private work. Ea
 - Local lead generation: [a2-local-lead-engine-public](https://github.com/shiny-a2/a2-local-lead-engine-public) — safety-first lead-gen and outreach engine (OSM, free/keyless, human-reviewed).
 - Staging security orchestration: [a2-staging-security-showcase](https://github.com/shiny-a2/a2-staging-security-showcase) — sanitized security engineering showcase for fail-closed staging recovery orchestration.
 - Customer identity architecture: [a2-customer-identity-core-showcase](https://github.com/shiny-a2/a2-customer-identity-core-showcase) — public showcase of a security-first customer identity architecture.
+- Trading-signal operations platform: [a2-vip-trading-showcase](https://github.com/shiny-a2/a2-vip-trading-showcase) — modular-monolith services sharing one domain layer, server-authoritative billing, and a code-enforced no-withdraw invariant.
+- WhatsApp customer response & cart recovery: [wa-assistant-showcase](https://github.com/shiny-a2/wa-assistant-showcase) — an operator-priority hand-off state machine, rate caps, and conservative, opt-out-respecting pacing.
+- Instagram automation & analytics: [instagram-automation-showcase](https://github.com/shiny-a2/instagram-automation-showcase) — official Graph API first, a reactive-only responder scoped to one account, and read-only isolated insights.
 
 ## Engineering Identity
 

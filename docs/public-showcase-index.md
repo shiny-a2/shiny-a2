@@ -39,6 +39,9 @@ Start with these repositories for a fast employer review:
 | `a2-javaherian-watch-bazaar` | [a2-watch-marketplace-showcase](https://github.com/shiny-a2/a2-watch-marketplace-showcase) | Current flagship |
 | `a2-alphacore` | [a2-alphacore-showcase](https://github.com/shiny-a2/a2-alphacore-showcase) | Current showcase |
 | `mu-a2-product-search-overlay` | [a2-product-search-overlay-showcase](https://github.com/shiny-a2/a2-product-search-overlay-showcase) | Current showcase |
+| `a2-vip-trading` | [a2-vip-trading-showcase](https://github.com/shiny-a2/a2-vip-trading-showcase) | Current flagship |
+| `wa-assistant` | [wa-assistant-showcase](https://github.com/shiny-a2/wa-assistant-showcase) | Current showcase |
+| `ig-assistant`, `ig-insights`, `instagram-bot` | [instagram-automation-showcase](https://github.com/shiny-a2/instagram-automation-showcase) | Current showcase |
 
 ## Current Maintenance
 
