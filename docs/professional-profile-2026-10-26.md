@@ -27,3 +27,11 @@ English and Persian packages now explain who each level serves, what it includes
 Local browser checks passed for forward/reverse wheel movement, stable reading intervals, release after the final stage, explicit controls, package stops, short viewports, resizing and reduced motion. English and Persian were checked at mobile, tablet and desktop widths under both OS color preferences; Arabic, German and French received shared-script navigation and overflow checks. The established dark palette and typefaces are preserved. No scroll-input interception or commercial performance claim is introduced.
 
 Version 1.2.0 is now published. The same browser regression suite passed on the live domain, and all eight release files matched their expected hashes. The previous release is retained for rollback. Screenshots of the English and Persian package layouts were reviewed on mobile and desktop.
+
+## Homepage navigation and service discovery — 1.3.0
+
+The long homepage now offers direct links to services, selected work, packages and contact in five languages. A keyboard skip link, corrected anchor spacing, clearer secondary text and localized menu controls make the page easier to navigate. The main enquiry action reaches contact directly.
+
+Each service has a visible HTML anchor matched by its structured-data URL. The structured project list uses the same public references shown on the page, and the resource guide now links directly to services. No private project source or customer data is included.
+
+Validation: all 287 sitemap URLs resolve to local files with matching canonicals and indexable metadata; the five homepage entity graphs and language alternatives pass consistency checks. Browser checks passed for native scroll reading intervals, reduced motion, resize, mobile and desktop navigation, keyboard access, menus, FAQ interaction and overflow. English/Persian views were inspected in both OS color schemes using the existing dark design. Google Search Console submission and Google's index status remain dependent on authenticated property access; technical checks do not establish search inclusion or guarantee AI recommendations.
