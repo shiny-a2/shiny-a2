@@ -53,3 +53,9 @@ Two collaboration entry points distinguish custom websites/applications/integrat
 Local validation passed for native scroll reading intervals, step controls, short-screen fallback, reduced motion, resize and overflow; eight navigation contexts; and twelve buyer-journey contexts across 320, 768 and 1440px widths in both OS color schemes. Two additional checks confirmed core service/package/contact content without JavaScript. English and Persian layouts were visually reviewed using the existing dark palette. All 287 sitemap URL checks passed. The new bilingual build is reproducible. No messages, orders or financial records were created during validation, and these checks do not establish conversion gains or search ranking improvements.
 
 Release 1.4.0 is live. All four public release files matched their HTTPS hashes. The native-scroll regression suite and buyer-journey suite also passed against the deployed website, including twelve viewport/color contexts and two no-JavaScript contexts. Both primary homepages expose one H1 and the expected canonical URL. The preceding release is retained for rollback.
+
+## Technical scroll experience — 1.4.1
+
+The English and Persian homepages again emphasize animated code windows and scroll-driven engineering stories. The introductory code window, complete technical sections and previous package presentation are restored to the 1.3.1 composition. Service-to-evidence links and structured discovery content remain part of that version.
+
+Native-wheel reading intervals, forward/reverse stage changes, explicit controls, short viewport behavior, resize, reduced motion and overflow passed local regression checks. Navigation checks passed in eight English/Persian mobile/desktop and OS-color combinations. All 287 sitemap URL checks passed. The superseded simplified-layout generator requires an explicit historical-preview flag to prevent accidental reuse in production.
