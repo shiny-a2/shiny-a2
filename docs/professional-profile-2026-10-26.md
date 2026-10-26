@@ -119,3 +119,13 @@ The layout also removes a retained vertical offset that could bring the supporti
 The hero suite passed 20 contexts in Chrome and 20 in Playwright WebKit across English/Persian, five viewport widths and both OS color preferences, plus a no-JavaScript check in each engine. Desktop and complete mobile-window screenshots were inspected. This validates the local browser behavior, not physical-device frame rate or screen-reader performance.
 
 The existing 20-context system-study interaction suite and its no-JavaScript fallback also passed in Chrome after the layout change.
+
+## Commercial experience and leadership context
+
+The unpublished English/Persian homepage now presents four distinct areas of owner-confirmed experience: 12 years of wholesale sales in Tehran Grand Bazaar, three years of marketing project management at Iran Novin, infrastructure development and strategy at Javaherian, and ownership of A2. The layout connects this background to software delivery without inventing employment dates or adding potentially overlapping durations.
+
+The full-profile link sits alongside the introduction. All nine existing project references and four collaboration FAQs remain available, with a responsive evidence index and native keyboard/no-JavaScript disclosure behavior. The section uses the established typography and palette, with a reading layout adapted for desktop, mobile and reduced motion.
+
+Chrome and Playwright WebKit each passed 16 English/Persian viewport and OS-color contexts, plus two no-JavaScript routes per engine. Checks covered the career facts, role/evidence counts, profile destination, FAQ interaction and overflow. This is a design study, not a new production release or independent verification of career history. Physical-device and screen-reader checks remain pending.
+
+Four additional short-desktop checks passed at 1280×600 across both languages and engines. All original project-evidence destinations were also compared with the baseline and preserved.
