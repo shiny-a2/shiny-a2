@@ -2,7 +2,7 @@
 
 A2 Owner · Infrastructure Development & Strategy at Javaherian · Software Architecture, Sales & Marketing
 
-**Public proof updated: 2026-07-23**
+**Public proof updated: 2026-10-26**
 
 Start with the [flagship repositories](#start-here), then use the [active public showcase library](#active-public-showcase-library) and [pinning guide](docs/github-profile-pinning.md) for the full employer-review path.
 
@@ -35,7 +35,9 @@ For a fast hiring review, use the website for the broader career story and this 
 
 The public repositories are curated showcases. They include architecture notes, public-safe samples, and sample-only syntax checks. They do not expose private implementation code or production data.
 
-Latest public update: the July 2026 releases publish the AI and automation line of work — `woocommerce-ai-sales-assistant` (AI sales consultant for WooCommerce over Telegram and website chat, grounded in the live catalog via OpenAI function-calling, with vision and voice), `ai-token-platform` (Telegram AI assistant platform with an internal credit economy), `telegram-crm-campaign-manager` (rate-limited scheduled customer messaging with a live dashboard), and `woocommerce-telegram-order-bot` (live, self-updating order cards with Jalali-dated reports), alongside an updated `a2-crm-operations-system`.
+Latest profile update: [October 2026 leadership and service profile](docs/professional-profile-2026-10-26.md).
+
+The July 2026 releases publish the AI and automation line of work — `woocommerce-ai-sales-assistant` (AI sales consultant for WooCommerce over Telegram and website chat, grounded in the live catalog via OpenAI function-calling, with vision and voice), `ai-token-platform` (Telegram AI assistant platform with an internal credit economy), `telegram-crm-campaign-manager` (rate-limited scheduled customer messaging with a live dashboard), and `woocommerce-telegram-order-bot` (live, self-updating order cards with Jalali-dated reports), alongside an updated `a2-crm-operations-system`.
 
 ## Technical Writing
 
