@@ -101,3 +101,11 @@ The unpublished homepage study now offers concise English/Persian briefs for fiv
 Exercising the new action uncovered closed mobile language links intercepting visible page controls. Closed navigation is now inert and its descendants remain hidden, while desktop navigation stays available after resizing. The brief keeps keyboard focus inside the dialog, supports Escape, retains a visible close control during scrolling and restores the project’s reading context. Browser-specific sticky-position behavior was investigated as part of this work. Production remains unchanged.
 
 Chrome and Playwright WebKit each passed 12 brief contexts covering all five projects, 12 journey contexts and English/Persian no-JavaScript routes. Four additional checks covered keyboard opening, reverse tab order, focus restoration and mobile/desktop navigation changes. Desktop and mobile layouts were visually inspected under both OS color preferences. These checks do not replace physical-phone or screen-reader validation.
+
+## Clearer package comparison and contact context
+
+The unpublished English/Persian study now offers an expandable comparison of the three existing A2 packages, with full-scope links and a stacked mobile layout. Selecting a package or custom-development route carries its title and expected outcome into the contact section. The selected route and a contact channel appear together; clearing the choice returns focus to a contact link. Contact actions display immediately rather than waiting for an entrance fade.
+
+The comparison works without JavaScript, and the original contact channels remain available. Selection is temporary page state, with no visitor-data collection, persistent storage or automatic message sending. The change introduces no new pricing, delivery guarantees or measured conversion claims. Production remains unchanged.
+
+Validation passed in 12 English/Persian desktop/mobile and OS-color contexts per engine in Chrome and Playwright WebKit, plus no-JavaScript comparison/contact routes. Checks covered all four collaboration choices, keyboard opening, correct selected text, clear/focus behavior, immediate contact readability and overflow. The existing eight-context offer/hero suite also passed in Chrome. Physical-device and screen-reader testing remain outside these checks.
