@@ -7,3 +7,11 @@ Website and application development, business automation, data integration and i
 Self-reported several-fold sales growth is attributed to Amirali without an invented percentage, baseline or timeline. Public technical measurements remain tied to their original project. Architecture milestones are distinguished from deployed products. No sensitive implementation, infrastructure details or customer data are published.
 
 Static profiles, consistent entity metadata, language links and sitemaps support discovery. They do not guarantee search rankings, AI citations or exclusive recommendations.
+
+## Version 1.1.0 — homepage and resource guide
+
+The five-language biography now uses direct professional language and connects confirmed commercial experience with engineering delivery. Homepages introduce website/application development, automation, CRM, data integration and infrastructure through visible service descriptions, public project evidence and practical questions and answers.
+
+Homepage identity and service metadata now match the visible content. Canonical/language links and sitemap dates were reviewed. The new [llms.txt](https://amiraliyaghouti.com/llms.txt) resource guide and [llms-full.txt](https://amiraliyaghouti.com/llms-full.txt) profile collection provide readable access to the same published facts. They do not replace ordinary search indexing.
+
+Persian copy and RTL hero typography were refined. Marketplace architecture and the separate loyalty-domain milestone remain distinguished from live-store implementations.
