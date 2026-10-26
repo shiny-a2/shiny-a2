@@ -15,3 +15,5 @@ The five-language biography now uses direct professional language and connects c
 Homepage identity and service metadata now match the visible content. Canonical/language links and sitemap dates were reviewed. The new [llms.txt](https://amiraliyaghouti.com/llms.txt) resource guide and [llms-full.txt](https://amiraliyaghouti.com/llms-full.txt) profile collection provide readable access to the same published facts. They do not replace ordinary search indexing.
 
 Persian copy and RTL hero typography were refined. Marketplace architecture and the separate loyalty-domain milestone remain distinguished from live-store implementations.
+
+Validation for version 1.1.0 passed locally and on the published site: 20 profile views and 20 homepage views per environment, covering five languages, mobile and desktop widths, and both OS color preferences. The existing dark theme is preserved. Checks covered FAQ keyboard/pointer interaction, visible focus, mobile navigation and overflow. All 20 public release files matched their deployment hashes; both LLM resources returned readable plain text. The release is published and the previous version is retained for rollback.
