@@ -109,3 +109,13 @@ The unpublished English/Persian study now offers an expandable comparison of the
 The comparison works without JavaScript, and the original contact channels remain available. Selection is temporary page state, with no visitor-data collection, persistent storage or automatic message sending. The change introduces no new pricing, delivery guarantees or measured conversion claims. Production remains unchanged.
 
 Validation passed in 12 English/Persian desktop/mobile and OS-color contexts per engine in Chrome and Playwright WebKit, plus no-JavaScript comparison/contact routes. Checks covered all four collaboration choices, keyboard opening, correct selected text, clear/focus behavior, immediate contact readability and overflow. The existing eight-context offer/hero suite also passed in Chrome. Physical-device and screen-reader testing remain outside these checks.
+
+## A connected hero workspace
+
+The unpublished bilingual homepage now pairs its main code window with a labeled synthetic customer-context excerpt and a localized team workflow. On desktop, scroll gently separates and straightens the supporting views while the central code remains still. On phones, the workflow becomes an in-flow strip rather than an overlapping window. Reduced-motion preferences produce a static composition.
+
+The layout also removes a retained vertical offset that could bring the supporting workflow into the following results strip. Browser checks cover forward/reverse movement, separation from the results, overflow, completed code, preserved primary actions and live reduced-motion changes. The examples are conceptual and contain no live customer data. Production remains unchanged.
+
+The hero suite passed 20 contexts in Chrome and 20 in Playwright WebKit across English/Persian, five viewport widths and both OS color preferences, plus a no-JavaScript check in each engine. Desktop and complete mobile-window screenshots were inspected. This validates the local browser behavior, not physical-device frame rate or screen-reader performance.
+
+The existing 20-context system-study interaction suite and its no-JavaScript fallback also passed in Chrome after the layout change.
