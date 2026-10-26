@@ -17,3 +17,11 @@ Homepage identity and service metadata now match the visible content. Canonical/
 Persian copy and RTL hero typography were refined. Marketplace architecture and the separate loyalty-domain milestone remain distinguished from live-store implementations.
 
 Validation for version 1.1.0 passed locally and on the published site: 20 profile views and 20 homepage views per environment, covering five languages, mobile and desktop widths, and both OS color preferences. The existing dark theme is preserved. Checks covered FAQ keyboard/pointer interaction, visible focus, mobile navigation and overflow. All 20 public release files matched their deployment hashes; both LLM resources returned readable plain text. The release is published and the previous version is retained for rollback.
+
+## Version 1.2.0 — readable scrolling and clearer packages
+
+The homepage previously used fixed scroll ranges for its changing process and project panels, while packages had no reading interval. The opening typewriter could also grow its container and shift later sections. The updated flow reserves that space, measures each reading stage and keeps the full stage below the header. Previous/next and numbered controls provide direct access. Short viewports use ordinary scrolling when a complete stage cannot fit.
+
+English and Persian packages now explain who each level serves, what it includes and what the team receives. Customer organization, workflow automation and AI assistance are distinguished from custom website, application and integration projects. Timelines, integrations and pricing remain defined in a project proposal.
+
+Local browser checks passed for forward/reverse wheel movement, stable reading intervals, release after the final stage, explicit controls, package stops, short viewports, resizing and reduced motion. English and Persian were checked at mobile, tablet and desktop widths under both OS color preferences; Arabic, German and French received shared-script navigation and overflow checks. The established dark palette and typefaces are preserved. No scroll-input interception or commercial performance claim is introduced.
