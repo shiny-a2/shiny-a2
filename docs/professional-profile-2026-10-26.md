@@ -59,3 +59,11 @@ Release 1.4.0 is live. All four public release files matched their HTTPS hashes.
 The English and Persian homepages again emphasize animated code windows and scroll-driven engineering stories. The introductory code window, complete technical sections and previous package presentation are restored to the 1.3.1 composition. Service-to-evidence links and structured discovery content remain part of that version.
 
 Native-wheel reading intervals, forward/reverse stage changes, explicit controls, short viewport behavior, resize, reduced motion and overflow passed local regression checks. Navigation checks passed in eight English/Persian mobile/desktop and OS-color combinations. All 287 sitemap URL checks passed. The superseded simplified-layout generator requires an explicit historical-preview flag to prevent accidental reuse in production.
+
+## Scroll Studio — isolated design study
+
+An English/Persian prototype explores a more expressive technical homepage while production remains on 1.4.1. The code window is retained, and a four-chapter sequence connects illustrative customer context, data integration, team action and management visibility. Code and operational views remain visible on mobile; shorter screens use a compact composition, and very small screens offer explicit chapter controls.
+
+AI reviews from product, marketing and motion perspectives informed the arrangement: commercial positioning and two main actions in the hero, an interactive system study, then selected project evidence. These reviews are design assistance, not human customer research. Synthetic demonstrations are labeled and linked to relevant published case studies without presenting invented customer records or performance results as real.
+
+Local browser checks passed in 20 English/Persian viewport and OS-color combinations, covering chapter navigation, overflow, stable evidence focus, static reading and live reduced-motion preference changes. A no-JavaScript reading check passed, as did separate native-wheel forward, reverse and release checks in four combinations. The four-state visual board and short-screen desktop/mobile layouts were inspected. The work does not establish real-device frame rate, conversion gains or search ranking improvements. Full-site integration, physical-device testing and production deployment remain pending.
