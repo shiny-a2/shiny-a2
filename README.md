@@ -1,6 +1,6 @@
 # Amirali Yaghouti
 
-Senior Software Engineer — Commerce Platforms, AI Systems & Automation Architecture
+A2 Owner · Infrastructure Development & Strategy at Javaherian · Software Architecture, Sales & Marketing
 
 **Public proof updated: 2026-07-23**
 
@@ -13,6 +13,14 @@ My strongest work is turning business operations into reliable web systems: fast
 Portfolio: https://amiraliyaghouti.com  
 LinkedIn: https://www.linkedin.com/in/amirali-yaghouti  
 Email: amiraliyaghouti@gmail.com
+
+## Business leadership and software delivery
+
+I am the owner of A2 and Director of Infrastructure Development and Strategy at Javaherian. My background includes 12 years in wholesale sales in Tehran Grand Bazaar and 3 years managing marketing projects at Iran Novin advertising agency. These periods are not added into a single career total because their dates and possible overlap are not published.
+
+I connect that commercial experience with hands-on website and application development, CRM and operator PWAs, repair and after-sales tools, sales reporting, business automation, data integration and infrastructure engineering. The [Javaherian case study](https://amiraliyaghouti.com/case-study-javaherian-gallery.html) explains how those responsibilities come together.
+
+The [professional profile](https://amiraliyaghouti.com/about-amirali-yaghouti.html), also available in [Persian](https://amiraliyaghouti.com/fa/about-amirali-yaghouti.html), Arabic, German and French, links each area to public project evidence. [October profile update notes](docs/professional-profile-2026-10-26.md) explain the scope and evidence boundaries.
 
 ## Public Reviewer Path
 
