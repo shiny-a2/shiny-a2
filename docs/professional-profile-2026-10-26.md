@@ -348,3 +348,13 @@ Descriptions were checked against the three linked case studies and three public
 Chrome and Playwright WebKit passed 16 local language/color/viewport contexts and four no-JavaScript checks. Tests covered card content, directory/schema parity, filters, focus and horizontal overflow. Visual review corrected English heading hyphenation on mobile. Existing identity checks passed across five languages. Physical devices and screen readers were not tested.
 
 Release 1.6.11 is published and verified. Five release files and nine unchanged references matched their HTTPS hashes. Live Chrome and Playwright WebKit passed 16 AI contexts and four no-JavaScript checks; ten identity graphs across five languages passed. The previous release is retained for rollback. The AI category review is complete; Telegram projects are next. Indexing, rankings and AI citations remain unmeasured.
+
+## Version 1.6.12 — Telegram and messaging project review
+
+Six project cards were reviewed in Persian and English against four linked case studies and two public repository READMEs. An incomplete management-report description now explains the combined bot, nightly report and offline dashboard, with reconciliation limited to the documented monthly comparison. Campaign copy replaces a broad safety claim with opt-out exclusion, duplicate-send prevention and operator controls.
+
+The team workflow is described according to its implementation brief. The customer messaging card distinguishes the documented Bale integration from architecture that can accommodate other channels. English Boss explains scheduled practice and feedback without claiming measured retention. These are first-party evidence summaries, not fresh audits of client systems.
+
+Titles now match the native reference directory and structured list. All destinations and 77 other card blocks remain unchanged. Local Chrome and Playwright WebKit passed 16 language/color/viewport contexts and four no-JavaScript checks covering content parity, filtering, keyboard focus, directory/schema agreement and overflow. Mobile and desktop screenshots were reviewed under both OS color preferences. Deterministic builds and existing identity checks across five languages passed. Physical devices and screen readers were not tested; no real customer messages were sent.
+
+Release 1.6.12 is published and verified. Five release files and nine unchanged references matched their HTTPS hashes. Live Chrome and Playwright WebKit passed 16 Telegram contexts and four no-JavaScript checks; ten identity graphs across five languages passed. The previous release is retained for rollback. Telegram review is complete; automation projects are next. Indexing, rankings and AI citations remain unmeasured.
