@@ -165,3 +165,10 @@ The published English/Persian homepage now preserves the intended JSON-LD identi
 The person and website now have consistent shared identifiers, while each page's services and evidence list retain their locale-specific destinations. A new consistency check covers all five homepage/profile pairs and compares the visible career/service text with the multilingual resource guide. No new biographical or performance claims were added. The visible page body and published animation assets remain byte-identical to the preceding release.
 
 After publication, all ten live page graphs and the five-language career/service resource comparisons passed. All 14 release files matched their HTTPS hashes, 12 public-route health checks passed, and eight live Chrome production resource/interaction contexts passed across English/Persian, phone/desktop and both OS color preferences. The previous release is retained for rollback. Search indexing, AI citation changes and Google rich-result eligibility were not measured by these checks.
+
+
+## Version 1.5.4 — clearer workflow navigation
+
+The code-and-result demonstration now tells visitors when to scroll, pause to read or choose a step on a short screen. Four progress segments match the four workflow steps and follow the reading direction in English and Persian. Keyboard users can select adjacent steps with Left/Right and reach the first or last step with Home/End. This makes the interaction easier to understand while preserving its code windows and native scrolling.
+
+The release is published. Live validation passed eight guidance scenarios across Chrome and Playwright WebKit, eight Chrome resource/interaction contexts, 14 release-file checks and 12 public-route health checks. Ten live structured-data graphs and the five-language profile/resource checks also passed. Local validation additionally covered 20 native-scroll contexts and a no-JavaScript reading fallback. Mobile and desktop screenshots were reviewed under both OS color preferences. Physical-device frame rates, browser zoom and screen-reader certification are not claimed.
