@@ -129,3 +129,13 @@ The full-profile link sits alongside the introduction. All nine existing project
 Chrome and Playwright WebKit each passed 16 English/Persian viewport and OS-color contexts, plus two no-JavaScript routes per engine. Checks covered the career facts, role/evidence counts, profile destination, FAQ interaction and overflow. This is a design study, not a new production release or independent verification of career history. Physical-device and screen-reader checks remain pending.
 
 Four additional short-desktop checks passed at 1280×600 across both languages and engines. All original project-evidence destinations were also compared with the baseline and preserved.
+
+## A quieter route and more deliberate scroll scenes
+
+Feedback on the accumulated design identified too much competing detail. The unpublished bilingual study now moves the long engineering catalogue into an optional native disclosure after the career context. The main route keeps the introduction, illustrative system, documented projects, services and collaboration choices together. Technical content, direct links and no-JavaScript reading remain available.
+
+The technical windows remain the visual focus. Repeated scene controls and heavy outer frames have been reduced. The windows assemble as the visitor scrolls, settle for a reading interval, then separate before the next chapter; reverse scrolling restores the earlier composition. Package cards use ordinary reading flow rather than adding further sticky stops. The four mobile chapter labels share a full-width row, and a visible text action switches to reading without motion.
+
+This is a local design refinement, not a production release, indexing change or claim of improved conversion. The illustrative interfaces contain synthetic data. The existing dark palette is retained under both OS color preferences; physical-device performance and screen-reader review are still pending.
+
+Chrome and Playwright WebKit each passed 20 studio contexts and eight composition contexts, with no-JavaScript fallbacks. Checks include stationary reading holds, reverse movement, mobile chapter target sizes, keyboard disclosure, technical deep links and keeping the focused disclosure visible after collapse. Chrome also passed the journey, project-brief, collaboration and hero regression suites. Desktop/mobile screenshots and focus states were reviewed. These are local browser checks, not a real-device frame-rate certification.
