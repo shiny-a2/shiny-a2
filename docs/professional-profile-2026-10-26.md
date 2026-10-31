@@ -570,3 +570,11 @@ Release 1.6.32 is published. All twenty-eight changed files and four unchanged v
 ## Version 1.6.33 — Ongoing Jeweltime collaboration
 
 The owner confirmed that the Jeweltime engagement continues. All five professional profiles, both Atelier profile pages and the full discovery text now state 2023–present (Gregorian), with an ongoing project-based engagement as PWA Web Application Developer and Technical Support Lead. This replaces start-date-only wording. Fourteen mobile/desktop layout and exact-copy checks passed before publication; no visual assets or other career periods changed.
+
+## Version 2.0.0 — Sculptural presentation on the main website
+
+The reference-led redesign now targets the main English and Persian pages. A full-width scene of original hollow connectors replaces the earlier A2 lettering and flat hero panels. Black, white and cobalt materials, spacious typography and a pale page canvas follow the owner's selected visual direction. Scrolling changes the camera angle and arrangement; motion settles when the visitor stops. Existing code windows and four workflow chapters remain available below the scene.
+
+The presentation covers the homepage, profile, project directory and three case studies in both languages. All fourteen homepage sections, services, packages, project evidence and the corrected career chronology remain. Reviewed profile wording is synchronized with the full discovery resource. Preview routes remain separate and noindex; established canonical metadata is preserved.
+
+Local verification passed twenty Chromium/WebKit page configurations, additional desktop case/profile views, menu and package interactions, chapter navigation, static fallbacks, reversible camera movement and idle stopping. Both content-preservation checks pass. Shared identity and profile-resource consistency pass in five languages; 287 sitemap destinations pass the existing indexability check. These are browser/source checks, not physical-device benchmarks, owner design acceptance or evidence of search rankings.
