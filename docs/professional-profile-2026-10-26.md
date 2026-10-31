@@ -566,3 +566,7 @@ Twenty canonical-profile and twenty preview browser configurations passed in Chr
 The Atelier visual direction was rejected by the owner. A subsequent physical workstation experiment remains unpublished after independent review found its composition, lighting and artwork insufficient. The factual release introduces no new three-dimensional visual assets and does not claim a completed cinematic redesign.
 
 Release 1.6.32 is published. All twenty-eight changed files and four unchanged visual/robots references matched their live HTTPS hashes. Existing visual assets were retained, and the preceding release remains recoverable.
+
+## Version 1.6.33 — Ongoing Jeweltime collaboration
+
+The owner confirmed that the Jeweltime engagement continues. All five professional profiles, both Atelier profile pages and the full discovery text now state 2023–present (Gregorian), with an ongoing project-based engagement as PWA Web Application Developer and Technical Support Lead. This replaces start-date-only wording. Fourteen mobile/desktop layout and exact-copy checks passed before publication; no visual assets or other career periods changed.
