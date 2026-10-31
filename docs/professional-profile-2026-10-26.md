@@ -516,3 +516,21 @@ Release 1.6.30 is published and verified. Local and live Chrome/Playwright WebKi
 An unpublished homepage prototype explores perspective data/code planes and spatial chapter transitions controlled by native scroll. The scene settles into a stable reading position before continuing, and reverse scroll restores the previous state. Existing content and code windows remain available, with reduced-motion and narrow-screen fallbacks.
 
 No new animation library, video or model was added. The changed stylesheet and script add 840 gzip bytes relative to the prior source. Chrome and Playwright WebKit each passed 20 hero and 20 workflow contexts, plus no-JavaScript checks, covering responsive layouts, reverse scroll, reading holds and reduced motion. A tablet overflow found during testing was corrected. This is a local prototype, not a deployed redesign or a physical-device performance claim; production remains 1.6.30.
+
+## Version 1.6.31 — Spatial homepage publication
+
+The previously documented spatial preview was published to the English and Persian homepages. Its two versioned animation assets were promoted without rebuilding or reverting the current editorial content. Seven release files and thirteen unchanged references matched live HTTPS hashes. Live Chrome and Playwright WebKit each passed eight route/resource contexts and twenty interactive flow contexts, plus a no-JavaScript fallback. Publication is verified; this does not represent acceptance of a final visual direction.
+
+## System Engine — A new bilingual homepage design study
+
+A separate full-homepage study explores the connection between commercial experience and software implementation. A procedural three-dimensional mechanism assembles as the reader scrolls, the camera changes viewpoint, and a code window introduces the implementation stage. The visual direction uses a light editorial layout, cobalt and copper accents, schematic project illustrations, clearly scoped services, professional background and direct contact routes.
+
+The scene uses locally bundled Three.js and renders in response to interaction, without a continuous idle animation loop, video or downloaded 3D models. The bundled scene script is approximately 134 KiB gzip, excluding reused fonts and other page resources. This is a source-size measurement, not a Core Web Vitals or physical-device performance claim. Static content and diagrams remain accessible when motion is reduced, the viewport is short, JavaScript is disabled or WebGL is unavailable.
+
+Local Chrome and Playwright WebKit each passed sixteen language/color-preference/viewport contexts and additional landscape, no-JavaScript and unavailable-WebGL checks. The tests exercise native reverse scrolling, chapter navigation, keyboard focus, motion controls, overflow and idle/offscreen rendering behavior. Visual review led to a tablet framing adjustment and improved code-window spacing on narrow screens. Both system color preferences use the intended light palette; a separate dark theme is not implemented.
+
+The indexed homepages remain version 1.6.31. This study is a separate noindex preview; existing service and case-study pages retain their current design. Final design acceptance, physical-device profiling and search outcomes are not claimed.
+
+Preview 1.0.1 is available in [Persian](https://amiraliyaghouti.com/design/system-engine/fa/) and [English](https://amiraliyaghouti.com/design/system-engine/). The preview is separate from the indexed homepage and is intended for review of the proposed visual direction.
+
+Publication checks confirmed all five preview files and six unchanged homepage/discovery references against their HTTPS hashes. The first live study passed the full browser matrix; after the spacing refinement, both browsers passed eight targeted live contexts across the changed widths, plus landscape and fallback checks. Representative live screenshots confirmed the corrections. The previous preview and homepage releases remain recoverable.
