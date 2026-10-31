@@ -534,3 +534,9 @@ The indexed homepages remain version 1.6.31. This study is a separate noindex pr
 Preview 1.0.1 is available in [Persian](https://amiraliyaghouti.com/design/system-engine/fa/) and [English](https://amiraliyaghouti.com/design/system-engine/). The preview is separate from the indexed homepage and is intended for review of the proposed visual direction.
 
 Publication checks confirmed all five preview files and six unchanged homepage/discovery references against their HTTPS hashes. The first live study passed the full browser matrix; after the spacing refinement, both browsers passed eight targeted live contexts across the changed widths, plus landscape and fallback checks. Representative live screenshots confirmed the corrections. The previous preview and homepage releases remain recoverable.
+
+## Reference research and content preservation — October 31, 2026
+
+System Engine is recorded as a rejected design study and is excluded from homepage promotion. The revised brief uses product-driven spatial presentation, informed by Lusion's Devin case study, Linear's product explanation and personal-portfolio references. It retains the existing website's business context, professional identity, service details and A2 package descriptions. No replacement homepage was deployed during this research pass.
+
+A content-preservation check now compares future English and Persian candidates with the reviewed homepage baseline. It checks fourteen section anchors, normalized text blocks and section-local destinations. Both baseline pages pass, the rejected study fails, and a focused negative check detects an altered package heading in the correct section. The check is intentionally conservative; it is not a semantic, visual or accessibility audit. Reference screenshots remain local research evidence, and third-party branding or artwork has not been added to the website.
