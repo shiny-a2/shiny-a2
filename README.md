@@ -16,7 +16,7 @@ Email: amiraliyaghouti@gmail.com
 
 ## Business leadership and software delivery
 
-I am the owner of A2 and Director of Infrastructure Development and Strategy at Javaherian. My background includes 12 years in wholesale sales in Tehran Grand Bazaar and 3 years managing marketing projects at Iran Novin advertising agency. These periods are not added into a single career total because their dates and possible overlap are not published.
+I am the owner of A2 and Director of Infrastructure Development and Strategy at Javaherian. My commercial background includes wholesale sales in Tehran Grand Bazaar during 1387–1395 and 1397–1400, and marketing project management at Iran Novin during 1395–1397. These are Solar Hijri calendar years, confirmed on 1 November 2026; they replace the earlier rounded duration summaries. My work with Javaherian began in 2023 (Gregorian), which does not establish the appointment date of my current title.
 
 I connect that commercial experience with hands-on website and application development, CRM and operator PWAs, repair and after-sales tools, sales reporting, business automation, data integration and infrastructure engineering. The [Javaherian case study](https://amiraliyaghouti.com/case-study-javaherian-gallery.html) explains how those responsibilities come together.
 

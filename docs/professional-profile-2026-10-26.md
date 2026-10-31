@@ -1,5 +1,7 @@
 # Professional profile update — 26 October 2026
 
+Chronology correction, 1 November 2026: the exact owner-confirmed Solar Hijri periods below supersede the rounded twelve-year/three-year summaries in historical release entries.
+
 The portfolio now connects Amirali Yaghouti's commercial leadership and engineering work in five languages. It includes A2 ownership, infrastructure development and strategy at Javaherian, 12 years of wholesale sales in Tehran Grand Bazaar and 3 years managing marketing projects at Iran Novin, as confirmed by Amirali.
 
 Website and application development, business automation, data integration and infrastructure services are connected to public case studies: CRM, operator applications, after-sales workflows, management reporting, inventory integration and performance engineering. This gives prospective clients and employers concrete evidence beyond a list of skills.
@@ -552,3 +554,15 @@ Chromium and WebKit passed twenty combined local page/viewport configurations, w
 The new [Persian preview](https://amiraliyaghouti.com/design/atelier/fa/) and [English preview](https://amiraliyaghouti.com/design/atelier/) are separate from the indexed homepage. They use original artwork and code rather than Lusion's models, imagery or runtime. Existing indexed content remains available; this release does not claim design acceptance, improved rankings or measured AI citations.
 
 Publication checks matched all sixteen preview files and six unchanged homepage/discovery references against HTTPS hashes. Eight live Chromium/WebKit contexts passed across both languages and mobile/desktop widths. The previous release remains recoverable.
+
+## Version 1.6.32 — Owner-confirmed career chronology
+
+The professional profile now records wholesale sales in Tehran Grand Bazaar during 1387–1395 and 1397–1400, and marketing project management at Iran Novin during 1395–1397, using the Solar Hijri calendar. Exact periods replace previous rounded duration claims. Independent software projects begin in 2021; work with Javaherian and the Jeweltime project begin in 2023; the Hooman Gold project runs from 2024 through January 2026. Those project dates are Gregorian. Company tenure is distinct from the appointment date of the current leadership title, and A2's founding date is not inferred.
+
+The supplied résumé also supports an associate degree in software engineering and web-design/Python certificates. Dates not supplied for those qualifications are omitted. The PDF itself is not published. Current profile pages, related biography text and discovery resources are synchronized in five languages for these facts. Existing indexing directives and unrelated article publication dates are preserved.
+
+Twenty canonical-profile and twenty preview browser configurations passed in Chromium/WebKit, including mobile/desktop layouts, both OS color preferences, education cards, FAQs and overflow checks. Both fourteen-section preview content checks pass. German, French and Arabic changes are factual synchronization, not a new full linguistic audit.
+
+The Atelier visual direction was rejected by the owner. A subsequent physical workstation experiment remains unpublished after independent review found its composition, lighting and artwork insufficient. The factual release introduces no new three-dimensional visual assets and does not claim a completed cinematic redesign.
+
+Release 1.6.32 is published. All twenty-eight changed files and four unchanged visual/robots references matched their live HTTPS hashes. Existing visual assets were retained, and the preceding release remains recoverable.
