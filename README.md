@@ -2,7 +2,7 @@
 
 A2 Owner · Infrastructure Development & Strategy at Javaherian · Software Architecture, Sales & Marketing
 
-**Public proof updated: 2026-10-26**
+**Public proof updated: 2026-11-01**
 
 Start with the [flagship repositories](#start-here), then use the [active public showcase library](#active-public-showcase-library) and [pinning guide](docs/github-profile-pinning.md) for the full employer-review path.
 
@@ -20,7 +20,15 @@ I am the owner of A2 and Director of Infrastructure Development and Strategy at 
 
 I connect that commercial experience with hands-on website and application development, CRM and operator PWAs, repair and after-sales tools, sales reporting, business automation, data integration and infrastructure engineering. The [Javaherian case study](https://amiraliyaghouti.com/case-study-javaherian-gallery.html) explains how those responsibilities come together.
 
-The [professional profile](https://amiraliyaghouti.com/about-amirali-yaghouti.html), also available in [Persian](https://amiraliyaghouti.com/fa/about-amirali-yaghouti.html), Arabic, German and French, links each area to public project evidence. [October profile update notes](docs/professional-profile-2026-10-26.md) explain the scope and evidence boundaries.
+The [professional profile](https://amiraliyaghouti.com/about-amirali-yaghouti.html), also available in [Persian](https://amiraliyaghouti.com/fa/about-amirali-yaghouti.html), Arabic, German and French, links each area to public project evidence. [Profile update notes](docs/professional-profile-2026-10-26.md) explain the scope and evidence boundaries.
+
+## Software, digital marketing and business products
+
+Through A2, I connect website and application development with customer acquisition, sales follow-up, content structure, campaign workflows and operational reporting. The work starts with the business process and continues through software implementation, data integration and the tools a team uses each day.
+
+The bilingual [business product catalogue](https://amiraliyaghouti.com/business-products.html), also available in [Persian](https://amiraliyaghouti.com/fa/business-products.html), covers fitness clubs, education and online learning, salons, restaurants and cafés. It describes configurable project scope, including role-specific workspaces, modules, integrations and delivery outcomes.
+
+The updated [project directory](https://amiraliyaghouti.com/projects.html) includes SamFit club operations, 01 education CRM and A2 Learning, alongside refreshed A2 Hero evidence. Project cards distinguish implemented workflows, staging evaluations and further product scope. [November release notes](docs/portfolio-products-2026-11-01.md) explain the changes and validation.
 
 ## Public Reviewer Path
 
@@ -35,7 +43,7 @@ For a fast hiring review, use the website for the broader career story and this 
 
 The public repositories are curated showcases. They include architecture notes, public-safe samples, and sample-only syntax checks. They do not expose private implementation code or production data.
 
-Latest profile update: [October 2026 leadership and service profile](docs/professional-profile-2026-10-26.md).
+Latest profile update: [November 2026 business products and project evidence](docs/portfolio-products-2026-11-01.md).
 
 The July 2026 releases publish the AI and automation line of work — `woocommerce-ai-sales-assistant` (AI sales consultant for WooCommerce over Telegram and website chat, grounded in the live catalog via OpenAI function-calling, with vision and voice), `ai-token-platform` (Telegram AI assistant platform with an internal credit economy), `telegram-crm-campaign-manager` (rate-limited scheduled customer messaging with a live dashboard), and `woocommerce-telegram-order-bot` (live, self-updating order cards with Jalali-dated reports), alongside an updated `a2-crm-operations-system`.
 
