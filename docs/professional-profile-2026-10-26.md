@@ -680,3 +680,15 @@ Both full homepage checks pass in Chromium and WebKit. Sixteen interactive direc
 
 
 Version 2.9.0 is published on the [project directory](https://amiraliyaghouti.com/fa/projects.html) and [professional biography](https://amiraliyaghouti.com/fa/about-amirali-yaghouti.html), with equivalent English pages. All 37 release files and four discovery references matched live HTTPS hashes. Sixteen live interactive and four no-JavaScript configurations passed in Chromium/WebKit, covering filtering, exact AI results, empty-state recovery, project navigation, biography anchors, FAQs and contact. Two additional homepage checks passed for scene initialization and menus. The previous release remains recoverable.
+
+
+## Version 3.0.0 — An immersive opening and light/dark appearance
+
+The homepage now opens with an original full-width architectural sculpture and larger English/Persian typography. Three hollow metal channels meet a beveled collector; native scrolling moves the camera from detail to the assembled form and then pauses the composition for reading. The existing code window continues the story with reversible assembly. Mobile, short windows and reduced-motion preferences receive a settled composition in normal document flow.
+
+A sun/moon switch now changes appearance throughout the twelve presentation pages. It follows the device initially, saves explicit choices and provides a menu action to return to device appearance. Photos, project evidence, career dates and search metadata are preserved. Cinematic scenes remain deliberately dark in either appearance. The original model is procedural, rendered through one shared canvas; no reference-site model, branding, code or media is included.
+
+Chromium and WebKit checks pass for the scroll sequences, idle rendering, readable holds, light/dark initialization, keyboard toggles, persistence, device-preference changes, blocked storage and fallback posters. Theme checks cover both languages and 320/390/1440px across the six page types. Existing project filtering, offers/contact handoffs, content-preservation, five-language identity/resource consistency and 287 canonical sitemap checks also pass. Browser verification does not establish physical-device performance or owner visual acceptance.
+
+
+Version 3.0.0 is published on the [Persian homepage](https://amiraliyaghouti.com/fa/) and [English homepage](https://amiraliyaghouti.com/), with appearance controls across the twelve presentation pages. All 43 release files and four discovery references matched live HTTPS hashes. Eight live Chromium/WebKit contexts passed across both languages and mobile/desktop, covering the new scene/camera, theme state and persistence, device reset, reduced motion, native project navigation and filtering. No failed resources or page errors occurred in those checks. The previous release remains recoverable.
