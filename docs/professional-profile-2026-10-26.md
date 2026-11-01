@@ -620,3 +620,15 @@ The featured image has a restrained scroll response; the other images stay still
 Twelve Chromium/WebKit gallery configurations pass layout, image-coverage, keyboard-focus, disclosure, link and reduced-motion checks across mobile, tablet and desktop widths. Independent bilingual review verified real case-study navigation and expanded details. The complete release gate passes in both engines, including the prior scroll/3D behavior and new featured-gallery navigation. Both content-preservation checks, five-language identity/resource consistency and 287 canonical sitemap destination checks pass. These checks do not establish physical-device performance or owner visual acceptance.
 
 Version 2.4.0 is published on the [Persian](https://amiraliyaghouti.com/fa/#proof) and [English](https://amiraliyaghouti.com/#proof) selected-work sections and the related reviewed pages. All 37 release files and four additional discovery references matched their live HTTPS hashes. Eight live Chromium/WebKit contexts passed across both languages and mobile/desktop widths, including featured layout, disclosures, matching artwork destinations and real case-study navigation by pointer or keyboard. The previous release remains recoverable.
+
+
+## Version 2.5.0 — Readable workflow chapters
+
+The four workflow chapters now pair a compact explanation with a clearly labelled code window. A numbered navigation rail makes the sequence and current chapter visible. The original bilingual text, code examples and case-study destinations remain intact.
+
+Desktop scrolling holds each chapter still for reading, then fades it out before the next chapter appears. Text no longer translates or overlaps across chapter boundaries. Direct selection opens a complete reading state; focused evidence remains usable while scrolling. Mobile, short windows and reduced-motion preferences show every chapter in ordinary document flow. Repeated resizing now measures actual content before enabling the pinned layout.
+
+The full Chromium and WebKit release checks pass, including stationary reading screenshots, exact reverse transitions, chapter navigation, evidence focus, reduced motion and existing gallery/3D behavior. Fourteen additional browser configurations cover both languages, mobile/tablet/desktop, short windows and both OS color preferences. Content-preservation, five-language identity/resource consistency and 287 canonical sitemap checks also pass. No new media or runtime dependency was added. These checks do not establish physical-device performance or owner design acceptance.
+
+
+Version 2.5.0 is published on the [Persian](https://amiraliyaghouti.com/fa/#studio-flow) and [English](https://amiraliyaghouti.com/#studio-flow) workflow sections and their related reviewed pages. All 37 release files and four additional discovery references matched live HTTPS hashes. Eight live Chromium/WebKit contexts passed across both languages and mobile/desktop widths, including every chapter selection, readable transition states, reduced motion, evidence navigation and existing gallery/3D interactions. The prior release remains recoverable.
