@@ -2,7 +2,7 @@
 
 A2 Owner · Infrastructure Development & Strategy at Javaherian · Software Architecture, Sales & Marketing
 
-**Public proof updated: 2026-11-01**
+**Public proof updated: 2026-11-02**
 
 Start with the [flagship repositories](#start-here), then use the [active public showcase library](#active-public-showcase-library) and [pinning guide](docs/github-profile-pinning.md) for the full employer-review path.
 
@@ -29,6 +29,10 @@ Through A2, I connect website and application development with customer acquisit
 The bilingual [business product catalogue](https://amiraliyaghouti.com/business-products.html), also available in [Persian](https://amiraliyaghouti.com/fa/business-products.html), covers fitness clubs, education and online learning, salons, restaurants and cafés. It describes configurable project scope, including role-specific workspaces, modules, integrations and delivery outcomes.
 
 The updated [project directory](https://amiraliyaghouti.com/projects.html) includes SamFit club operations, 01 education CRM and A2 Learning, alongside refreshed A2 Hero evidence. Project cards distinguish implemented workflows, staging evaluations and further product scope. [November release notes](docs/portfolio-products-2026-11-01.md) explain the changes and validation.
+
+## Cinema development preview
+
+The [English cinema preview](https://amiraliyaghouti.com/cinema/) and [Persian version](https://amiraliyaghouti.com/cinema/fa/) adapt a downloaded reference experience with A2 content and original illustrative product covers. Reference motion assets are retained for this stage and are not claimed as original A2 work. [Adaptation notes](docs/portfolio-cinema-2026-11-02.md) explain the scope and validation.
 
 ## Public Reviewer Path
 
