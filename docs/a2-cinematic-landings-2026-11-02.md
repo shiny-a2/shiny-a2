@@ -13,3 +13,5 @@ Explore the [Persian A2 catalogue](https://amiraliyaghouti.com/fa/products/), [E
 Release 3.4.0 is published. All 259 release files match their live HTTPS hashes. Live Chromium and WebKit each pass sixteen canonical landing contexts and reading fallbacks. The live next-product gesture and reversal cancellation pass in both languages, and representative live landing compositions were visually inspected.
 
 Live cinematic homepage checks also pass in both browsers for Persian/mobile/dark and English/desktop/light, including scene reversal, appearance controls, menus and reading fallbacks.
+
+The [3.5.0 capability gallery](a2-capability-gallery-2026-11-02.md) adds native visual capability selection and direct module navigation to these landings.
