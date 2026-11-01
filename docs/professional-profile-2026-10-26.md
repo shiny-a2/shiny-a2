@@ -656,3 +656,15 @@ Twenty-four Chromium/WebKit configurations pass across both languages and 320–
 
 
 Version 2.7.0 is published on the [Persian](https://amiraliyaghouti.com/fa/#professional-context) and [English](https://amiraliyaghouti.com/#professional-context) professional-context sections and their related reviewed pages. All 37 release files and four additional discovery references matched live HTTPS hashes. Eight live Chromium/WebKit contexts passed across both languages and mobile/desktop widths, covering role grouping, separated metadata, service/evidence links, sticky clearance, avatar loading and keyboard FAQs. Existing offer/contact, gallery, workflow and 3D interactions also passed. The prior release remains recoverable.
+
+
+## Version 2.8.0 — Clearer project case studies
+
+The Javaherian platform, CRM operator app and sales-operations dashboard case studies now share a clearer English/Persian reading layout. Each opens with the existing executive brief alongside the introduction, resolving a code window that previously slipped behind the header. A compact contents list leads to the original eight sections. Desktop headings sit beside their explanations; mobile keeps a natural single-column reading order.
+
+Related evidence cards distinguish linked titles from descriptions and retain their complete qualifications. Native FAQs remain keyboard-operable. Larger contact actions finish each case and lead to the correct language's contact section. All existing project text, code summaries, links, dates and search metadata are preserved.
+
+Sixty Chromium/WebKit configurations pass across six pages and 320–1440px widths, including both OS color preferences, reduced motion and twelve no-JavaScript checks. Validation covers exact content and metadata preservation, section-heading clearance, usable contact targets, FAQ operation and horizontal overflow. Both full homepage release checks, content-preservation, five-language identity/resource consistency and 287 canonical sitemap checks also pass. No media or runtime dependency was added. These checks do not establish physical-device performance, assistive-technology behavior or owner design acceptance.
+
+
+Version 2.8.0 is published on all three case studies in [Persian](https://amiraliyaghouti.com/fa/case-study-javaherian-gallery.html) and [English](https://amiraliyaghouti.com/case-study-javaherian-gallery.html). All 37 release files and four additional discovery references matched live HTTPS hashes. Thirty-six live Chromium/WebKit contexts passed across the six pages, including twelve no-JavaScript checks, preserved content/metadata, section navigation, keyboard FAQs and localized contact destinations. Two additional live homepage checks passed for scene initialization, menus and case links. The prior release remains recoverable.
