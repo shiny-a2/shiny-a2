@@ -632,3 +632,15 @@ The full Chromium and WebKit release checks pass, including stationary reading s
 
 
 Version 2.5.0 is published on the [Persian](https://amiraliyaghouti.com/fa/#studio-flow) and [English](https://amiraliyaghouti.com/#studio-flow) workflow sections and their related reviewed pages. All 37 release files and four additional discovery references matched live HTTPS hashes. Eight live Chromium/WebKit contexts passed across both languages and mobile/desktop widths, including every chapter selection, readable transition states, reduced motion, evidence navigation and existing gallery/3D interactions. The prior release remains recoverable.
+
+
+## Version 2.6.0 — Clear offers and a consistent contact handoff
+
+The service selector now places each suggested route beside the current need. Its reviewed description matches the destination package or custom-service scope. Packages use full-width rows with visible suitability and intended outcomes; complete capability lists open through native disclosures. All existing offer qualifications and contact destinations remain available.
+
+One selection now connects the need explorer, three package actions, custom-project action and contact summary. This fixes a custom project retaining a previously selected Growth package. Both clear actions reset the same choice and return keyboard focus predictably. The contact layout brings email, Telegram and WhatsApp into view sooner; the first channel is fully visible after each tested handoff, including 320px mobile. The original message guidance and professional links follow the main contact channels.
+
+The full release checks pass in Chromium and WebKit. Sixteen additional offer configurations verify both languages, 320–1440px layouts, every route, exact copy parity, visible results/contact, both resets, keyboard disclosures and reduced motion. No-JavaScript paths and eight light/dark visual configurations also pass. Content-preservation, five-language identity/resource consistency and 287 canonical sitemap checks pass. No media or runtime dependency was added, and no external messages were sent during verification. These checks do not establish physical-device performance or owner design acceptance.
+
+
+Version 2.6.0 is published on the [Persian](https://amiraliyaghouti.com/fa/#work-paths) and [English](https://amiraliyaghouti.com/#work-paths) service sections and their related reviewed pages. All 37 release files and four additional discovery references matched live HTTPS hashes. Eight live Chromium/WebKit contexts passed across both languages and mobile/desktop widths, including all four service routes, scope disclosures, visible contact channels, synchronized resets and the prior package-to-custom regression. Existing gallery, workflow and 3D interactions also passed. The prior release remains recoverable.
