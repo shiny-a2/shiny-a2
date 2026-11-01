@@ -15,3 +15,5 @@ Explore the [Persian product catalogue](https://amiraliyaghouti.com/cinema/fa/pr
 Release 3.3.0 is published. All 243 release files match their live HTTPS hashes. Live Chromium and WebKit each pass twelve representative product/support-page contexts and reading fallbacks, including Watch and Sport module/FAQ interactions and local-only contact drafts.
 
 Final live cinematic checks also pass Persian/mobile/dark and English/desktop/light in both browsers, including the A2 reel, scene reversal, theme controls, menus and reading fallbacks.
+
+The [3.4.0 landing extension](a2-cinematic-landings-2026-11-02.md) adds original product scroll scenes and canonical bilingual landing pages while preserving existing industry URLs.
