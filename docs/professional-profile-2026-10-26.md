@@ -644,3 +644,15 @@ The full release checks pass in Chromium and WebKit. Sixteen additional offer co
 
 
 Version 2.6.0 is published on the [Persian](https://amiraliyaghouti.com/fa/#work-paths) and [English](https://amiraliyaghouti.com/#work-paths) service sections and their related reviewed pages. All 37 release files and four additional discovery references matched live HTTPS hashes. Eight live Chromium/WebKit contexts passed across both languages and mobile/desktop widths, including all four service routes, scope disclosures, visible contact channels, synchronized resets and the prior package-to-custom regression. Existing gallery, workflow and 3D interactions also passed. The prior release remains recoverable.
+
+
+## Version 2.7.0 — Service evidence and professional context
+
+Five service areas now sit beside their introduction in a readable evidence-led layout. Each keeps its full explanation and original case-study link. On large desktops, the introduction stays below the header during ordinary scrolling; smaller screens and reduced-motion preferences use normal document flow.
+
+Current Javaherian and A2 responsibilities now appear before the separately labelled sales and marketing background. Organization and date/status occupy distinct lines, fixing previously concatenated metadata. The original avatar remains with the biography. All dates, job titles, descriptions and supporting destinations are preserved. Nine evidence links have larger full-row targets, followed by clearly separated native FAQs and the existing machine-readable resources.
+
+Twenty-four Chromium/WebKit configurations pass across both languages and 320–1440px layouts, including both OS color preferences, exact role/date/link preservation, sticky clearance, keyboard focus and FAQ interaction. Four no-JavaScript checks, both full release gates, content-preservation checks, five-language identity/resource consistency and 287 canonical sitemap checks pass. No media or runtime dependency was added. These checks do not establish physical-device performance, assistive-technology behavior or owner design acceptance.
+
+
+Version 2.7.0 is published on the [Persian](https://amiraliyaghouti.com/fa/#professional-context) and [English](https://amiraliyaghouti.com/#professional-context) professional-context sections and their related reviewed pages. All 37 release files and four additional discovery references matched live HTTPS hashes. Eight live Chromium/WebKit contexts passed across both languages and mobile/desktop widths, covering role grouping, separated metadata, service/evidence links, sticky clearance, avatar loading and keyboard FAQs. Existing offer/contact, gallery, workflow and 3D interactions also passed. The prior release remains recoverable.
