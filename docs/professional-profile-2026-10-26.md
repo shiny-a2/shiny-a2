@@ -668,3 +668,15 @@ Sixty Chromium/WebKit configurations pass across six pages and 320–1440px widt
 
 
 Version 2.8.0 is published on all three case studies in [Persian](https://amiraliyaghouti.com/fa/case-study-javaherian-gallery.html) and [English](https://amiraliyaghouti.com/case-study-javaherian-gallery.html). All 37 release files and four additional discovery references matched live HTTPS hashes. Thirty-six live Chromium/WebKit contexts passed across the six pages, including twelve no-JavaScript checks, preserved content/metadata, section navigation, keyboard FAQs and localized contact destinations. Two additional live homepage checks passed for scene initialization, menus and case links. The prior release remains recoverable.
+
+
+## Version 2.9.0 — Accurate project discovery and a clearer biography
+
+The project directory's AI filter previously returned 48 cards because it also matched part of a retail category name. It now shows the six correctly tagged AI projects. Category selection, result count and empty-state messaging stay synchronized. Business filters open in a native disclosure, and a results link takes visitors directly to the matching projects. All 83 original project cards remain available.
+
+The English/Persian index uses a split introduction, compact filter panel and clearer evidence actions. The biography presents career roles in readable rows, separates education, capabilities and evidence, and provides a native contents disclosure with larger navigation/contact targets. All original project text, chronology, links and search metadata are preserved. No media, runtime dependency or animation loop was added.
+
+Both full homepage checks pass in Chromium and WebKit. Sixteen interactive directory/biography configurations and four no-JavaScript configurations cover both languages and 320–1440px layouts. Checks include the AI regression, every filter, empty-state recovery, section/case navigation, keyboard FAQs and contact. Eight additional visual configurations cover both OS color preferences, mobile/desktop and expanded controls. Content-preservation, five-language identity/resource consistency and 287 canonical sitemap checks pass. These checks do not establish physical-device performance, assistive-technology behavior or owner design acceptance.
+
+
+Version 2.9.0 is published on the [project directory](https://amiraliyaghouti.com/fa/projects.html) and [professional biography](https://amiraliyaghouti.com/fa/about-amirali-yaghouti.html), with equivalent English pages. All 37 release files and four discovery references matched live HTTPS hashes. Sixteen live interactive and four no-JavaScript configurations passed in Chromium/WebKit, covering filtering, exact AI results, empty-state recovery, project navigation, biography anchors, FAQs and contact. Two additional homepage checks passed for scene initialization and menus. The previous release remains recoverable.
