@@ -9,3 +9,5 @@ Local checks passed 96 gallery contexts in Chromium and 96 in WebKit across twel
 Explore the [A2 Watch capability gallery](https://amiraliyaghouti.com/fa/watch-platform.html#explore), [A2 Sport](https://amiraliyaghouti.com/fa/fitness-platform.html#explore) or the [complete English product catalogue](https://amiraliyaghouti.com/products/).
 
 Release 3.5.0 is published. All 259 release files match live HTTPS hashes. Live Chromium and WebKit each pass sixteen gallery contexts and reading fallbacks, including active section navigation and direct-fragment reload. Representative live Persian/mobile/dark and English/desktop/light gallery states were visually inspected.
+
+[Version 3.6.0](a2-product-discovery-2026-11-02.md) adds catalogue search, a native product menu and related-product links.
