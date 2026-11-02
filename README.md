@@ -251,3 +251,5 @@ I build internal systems as operational tools, not as generic dashboards. The re
 [Hero and Growth delivery scopes](docs/a2-hero-growth-editorial-2026-11-02.md) describe the bilingual product editorial update and its published validation.
 
 [Product landing composition](docs/a2-landing-composition-2026-11-02.md) covers the cinematic layout adaptation, readable themed controls and verified release scope.
+
+[A2 opening mark and homepage motion](docs/a2-home-motion-2026-11-02.md) documents the restored reference reel, A-shaped entry and published validation.
