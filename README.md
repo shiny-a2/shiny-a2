@@ -253,3 +253,5 @@ I build internal systems as operational tools, not as generic dashboards. The re
 [Product landing composition](docs/a2-landing-composition-2026-11-02.md) covers the cinematic layout adaptation, readable themed controls and verified release scope.
 
 [A2 opening mark and homepage motion](docs/a2-home-motion-2026-11-02.md) documents the restored reference reel, A-shaped entry and published validation.
+
+[A2 particle-scene continuation](docs/a2-particle-continuation-2026-11-02.md) covers the scroll-driven About scene and preserved bilingual editorial.
