@@ -1,0 +1,9 @@
+# A clearer visual structure for A2 product landings
+
+A2's bilingual product landings now place a compact introduction beside a large scrolling product scene on desktop, with a single-column reading order on mobile. This composition takes its direction from the reference project's metadata/gallery layout. Capability details, roles, delivery scope and the project brief have clearer visual separation. Repeated generic introductions are removed, and opening the capability picker leaves one continuation action instead of two.
+
+The existing light/dark theme preference and typefaces are preserved. Fixed scene and conceptual-screen surfaces explicitly own their text colours. Product modules, FAQs, delivery evidence, canonical addresses and structured metadata remain intact. The illustrations are conceptual A2 assets; this release does not claim photorealistic visual fidelity or an exact recreation of the reference.
+
+Chromium and WebKit each pass 96 local product/language/viewport/theme contexts covering layout, selected text/background contrast, capability choices, theme switching and menu escape. These contrast checks cover named components, not a full accessibility certification. Motion regressions cover 16 contexts per browser; separate short-height and contact-navigation checks pass. Static checks cover 24 canonical landings and 315 canonical sitemap URLs. No real messages or business records are created during validation.
+
+Release 3.17.0 is published. All 260 runtime files match the live release. Chromium and WebKit each pass 96 live layout, interaction and contrast contexts; Chromium also passes 16 live scroll, pause and fallback contexts. Selected published screenshots were inspected. Further work remains on product-specific cinematic imagery and support-page continuity.

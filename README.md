@@ -249,3 +249,5 @@ I build internal systems as operational tools, not as generic dashboards. The re
 - Write documentation that explains tradeoffs, not just features.
 
 [Hero and Growth delivery scopes](docs/a2-hero-growth-editorial-2026-11-02.md) describe the bilingual product editorial update and its published validation.
+
+[Product landing composition](docs/a2-landing-composition-2026-11-02.md) covers the cinematic layout adaptation, readable themed controls and verified release scope.
