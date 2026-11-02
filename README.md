@@ -247,3 +247,5 @@ I build internal systems as operational tools, not as generic dashboards. The re
 - Treat cache invalidation, checkout state, and customer data as first-class constraints.
 - Keep public code curated and safe; never publish raw production dumps.
 - Write documentation that explains tradeoffs, not just features.
+
+[Hero and Growth delivery scopes](docs/a2-hero-growth-editorial-2026-11-02.md) describe the bilingual product editorial update and its published validation.
